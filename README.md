@@ -11,4 +11,5 @@ PowerShell
 How to reach me;
 
 LinkedIn https://www.linkedin.com/in/harrybamber/
+
 Blog https://harrybamber.co.uk
